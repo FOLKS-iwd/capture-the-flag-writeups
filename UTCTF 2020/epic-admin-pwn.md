@@ -10,7 +10,8 @@ Well, we had found out that this form is vulnerable to SQL injections! Let's tak
 
 ![epic(2)](https://user-images.githubusercontent.com/57829161/76207527-02d89000-620f-11ea-99a8-71c6006ad2fc.png)
 
-So we have two post fields there - "username" and "pass", the sqlmap tool will help us to dump the required table and get the flag:
+So we have two post fields there - "username" and "pass", after saving the request data in "request.txt" the sqlmap tool will help us to
+dump the required table and get the flag:
 
 ![epic(3)](https://user-images.githubusercontent.com/57829161/76209173-4c76aa00-6212-11ea-96d2-874fa3c6fa14.png)
 
