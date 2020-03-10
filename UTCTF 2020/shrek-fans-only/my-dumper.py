@@ -57,4 +57,3 @@ for i in tasks:
             f.write(r.content)
     else:
         print(f'[X] {i} not found')
-
