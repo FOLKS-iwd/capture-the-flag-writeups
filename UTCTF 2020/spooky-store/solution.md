@@ -1,4 +1,4 @@
-# Spooky store writeup
+# Spooky Store writeup
 
 Initially we are dealing with the service that calculates the nearest coordinates:
 
