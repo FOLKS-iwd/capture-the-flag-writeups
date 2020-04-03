@@ -1,4 +1,4 @@
-# Shrek fans only writeup
+# Shrek Fans Only writeup
 
 ## Description
 
