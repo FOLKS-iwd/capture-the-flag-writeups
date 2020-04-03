@@ -1,4 +1,4 @@
-# Epic admin pwn writeup
+# Epic Admin Pwn writeup
 
 After clicking the link we have to explore the form we got:
 
