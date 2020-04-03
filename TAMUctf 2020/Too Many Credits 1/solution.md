@@ -1,4 +1,4 @@
-# Too Many Credits 1
+# Too Many Credits 1 writeup
 
 Inherently all that we have in this task is a simple service which adds 1 credit to our account when we just click the button:
 
