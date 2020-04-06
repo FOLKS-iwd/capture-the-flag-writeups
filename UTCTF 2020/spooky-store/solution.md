@@ -8,7 +8,7 @@ Let's take a quick look at the request in burp suite (with intercept on enabled)
 
 ![spooky-store(1)](https://user-images.githubusercontent.com/57829161/76204799-2220ee80-620a-11ea-9d78-7ccaced7944f.png)
 
-Surely we have to exploit the XXE vulnerability, all that we need is to get an access to /etc/passwd file on the server:
+Surely we have to exploit the XXE vulnerability, all that we need is to get an access to `/etc/passwd` file on the server:
 
 ![spooky-store(2)](https://user-images.githubusercontent.com/57829161/76205879-21895780-620c-11ea-87e9-8813f766248b.png)
 
