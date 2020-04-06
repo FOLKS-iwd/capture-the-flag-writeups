@@ -6,7 +6,7 @@ port = 30030
 p = remote(host, port)
 
 uppercase = '{ABCDEFGHIJKLMNOPQRSTUVWXYZ_-}'
-lowercase = '{abcdefghijklmnopqrstuvwxyz_-}'+ digits
+lowercase = '{abcdefghijklmnopqrstuvwxyz_-}' + digits
 find = ''
 
 try:
