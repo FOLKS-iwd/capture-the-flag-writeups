@@ -1,4 +1,4 @@
-# Miyazaki Trivia
+# Miyazaki Trivia writeup
 
 The first hint in this task point to `robots.txt` file, so let's try to check its content in browser:
 
