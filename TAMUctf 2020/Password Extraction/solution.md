@@ -6,7 +6,7 @@ Firstly we need to check all the databases that are located on the server (so th
 
 ![pe(2)](https://user-images.githubusercontent.com/57829161/78356938-319d1880-75b9-11ea-99cb-55e92d970903.png)
 
-The same way we are able to retrieve the table "accounts" in the "db" database and then dump it and get the flag:
+The same way we are able to retrieve the table `accounts` in the `db` database and then dump it and get the flag:
 
 ![pe(3)](https://user-images.githubusercontent.com/57829161/78357018-57c2b880-75b9-11ea-8555-f06985759784.png)
 
